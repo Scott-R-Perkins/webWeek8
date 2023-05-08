@@ -1,0 +1,7 @@
+C:\Users\2013004474\webWeek8\obj\Debug\net7.0\webWeek8.csproj.AssemblyReference.cache
+C:\Users\2013004474\webWeek8\obj\Debug\net7.0\webWeek8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013004474\webWeek8\obj\Debug\net7.0\webWeek8.AssemblyInfoInputs.cache
+C:\Users\2013004474\webWeek8\obj\Debug\net7.0\webWeek8.AssemblyInfo.cs
+C:\Users\2013004474\webWeek8\obj\Debug\net7.0\webWeek8.csproj.CoreCompileInputs.cache
+C:\Users\2013004474\webWeek8\obj\Debug\net7.0\webWeek8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2013004474\webWeek8\obj\Debug\net7.0\webWeek8.MvcApplicationPartsAssemblyInfo.cache

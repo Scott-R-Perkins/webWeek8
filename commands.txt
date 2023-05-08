@@ -1,0 +1,17 @@
+dotnet tool install -g dotnet-aspnet-codegenerator
+dotnet tool install -g dotnet-ef
+dotnet new list
+dotnet new webapi
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+git config --global user.email "scottrperkins96@gmail.com"
+git config --global user.name "Scott Perkins"
+dotnet add package Microsoft.EntityFrameworkCore.Sqlserver
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+
+
+For scafolding I think
+dotnet aspnet-codegenerator controller -name AnimalsController -api -m Animal -dc TestDbContext -outDir Controllers
+
+dotnet ef migrations add initial -c TestDbContext -o Data/Migrations
+dotnet ef migrations add name -c TestDbContext -o Data/migrations
