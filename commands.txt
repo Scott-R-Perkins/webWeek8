@@ -1,7 +1,7 @@
 dotnet tool install -g dotnet-aspnet-codegenerator
 dotnet tool install -g dotnet-ef
-dotnet new list
-dotnet new webapi
+dotnet new list //Shows list of templates 
+dotnet new webapi //Creates a project with the webapi template
 dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
 git config --global user.email "scottrperkins96@gmail.com"
 git config --global user.name "Scott Perkins"
