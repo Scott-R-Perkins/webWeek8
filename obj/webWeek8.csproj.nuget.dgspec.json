@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2013004474\\webWeek8\\webWeek8.csproj": {}
+    "C:\\Users\\ScottP\\Documents\\BIT - Year 3 Sem 1\\Web\\webWeek8\\webWeek8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2013004474\\webWeek8\\webWeek8.csproj": {
+    "C:\\Users\\ScottP\\Documents\\BIT - Year 3 Sem 1\\Web\\webWeek8\\webWeek8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2013004474\\webWeek8\\webWeek8.csproj",
+        "projectUniqueName": "C:\\Users\\ScottP\\Documents\\BIT - Year 3 Sem 1\\Web\\webWeek8\\webWeek8.csproj",
         "projectName": "webWeek8",
-        "projectPath": "C:\\Users\\2013004474\\webWeek8\\webWeek8.csproj",
-        "packagesPath": "C:\\Users\\2013004474\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2013004474\\webWeek8\\obj\\",
+        "projectPath": "C:\\Users\\ScottP\\Documents\\BIT - Year 3 Sem 1\\Web\\webWeek8\\webWeek8.csproj",
+        "packagesPath": "C:\\Users\\ScottP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ScottP\\Documents\\BIT - Year 3 Sem 1\\Web\\webWeek8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\2013004474\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ScottP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -88,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\ScottP\\AppData\\Roaming\\.dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
